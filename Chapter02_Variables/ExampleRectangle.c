@@ -2,6 +2,7 @@
 
 int main()
 {
+    // test
     // Rectangle Example
     // 1.) Read the values for a, b from the user
     // 2.) Compute the perimeter and area of the rectangle
